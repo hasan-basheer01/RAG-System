@@ -8,7 +8,7 @@ This project loads a PDF document, splits it into chunks, creates embeddings, st
 
 ## Features
 
-- Loads a PDF using LangChain
+- Loads a PDF using RAG
 - Splits the document into meaningful chunks
 - Creates vector embeddings with OpenAI
 - Stores and retrieves relevant chunks using FAISS
